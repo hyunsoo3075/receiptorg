@@ -1,7 +1,11 @@
 npm v used 6.14.4
+
 clone repo to local.
+
 in command line, navigate to app file
+
 run 'npm install'
+
 run 'npm start'
 
 # Getting Started with Create React App
