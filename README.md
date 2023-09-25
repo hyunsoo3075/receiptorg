@@ -14,7 +14,7 @@ Clicking on customerId will navigate to different route showcasing the customer'
 
 Project Goal: 
  - Get hands on experience with React and MUI
- - work on my thought process on building an application in the POV from a user.
+ - work on my thought process on building an application from the POV of an user.
  - Data manipulation.
 
 If I had more time: 
