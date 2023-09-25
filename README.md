@@ -12,6 +12,9 @@ In home page, try clicking on either product or customer id.
 Clicking on Product (when you expand each row) will bring a modal up.
 Clicking on customerId will navigate to different route showcasing the customer's past orders.
 
+On product page, click on row to see product sold trend in the past couple of days.
+On product page and customer page, utilize MUI's data grid features such as sorting and filters.
+
 Project Goal: 
  - Get hands on experience with React and MUI
  - work on my thought process on building an application from the POV of an user.
