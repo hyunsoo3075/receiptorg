@@ -17,7 +17,7 @@ function Products(props) {
     {
       field: 'Item',
       headerName: 'Product Name',
-      width: 90
+      width: 130
     },
     {
       field: 'ItemPrice',
