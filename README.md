@@ -8,6 +8,23 @@ run 'npm install'
 
 run 'npm start'
 
+In home page, try clicking on either product or customer id.
+Clicking on Product (when you expand each row) will bring a modal up.
+Clicking on customerId will navigate to different route showcasing the customer's past orders.
+
+Project Goal: 
+ - Get hands on experience with React and MUI
+ - work on my thought process on building an application in the POV from a user.
+ - Data manipulation.
+
+If I had more time: 
+1) I'd work on css styling
+2) Improve user workflow as they navigate through the app. Put more time on brainstorming which app and page layout would be more useful for the users.
+3) Apply more visualization. (Try different libraries for charts. IMO, MUI charts are too generalized and Simple).
+4) General feature improvements such as login authentication, Ability to edit specific receipt in case of error. Connect to backend application where user can perform CRUD. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
